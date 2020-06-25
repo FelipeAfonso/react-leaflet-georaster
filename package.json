@@ -1,0 +1,31 @@
+{
+  "name": "react-leaflet-georaster",
+  "version": "1.0.0",
+  "description": "A react-leaflet plugin for geotiff files",
+  "main": "index.js",
+  "dependencies": {
+    "georaster-layer-for-leaflet": "^0.5.0",
+    "georaster": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeAfonso/react-leaflet-georaster.git"
+  },
+  "keywords": [
+    "react",
+    "leaflet",
+    "geotiff",
+    "tif",
+    "georaster"
+  ],
+  "author": "Felipe Afonso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FelipeAfonso/react-leaflet-georaster/issues"
+  },
+  "homepage": "https://github.com/FelipeAfonso/react-leaflet-georaster#readme"
+}
